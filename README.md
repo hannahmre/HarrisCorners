@@ -9,5 +9,5 @@ Method 2 works better on images with lots of detail and not so clear corners.
 Notes: 
 The images labeled "img#.jpg" are the resulting images after using Harris Corners. 
 The images labeled with names (i.e. new-york.jpg) are the orginial images before using Harris Corners. 
-There is a .docx file included which is my report of the assignment. 
+There is a .pdf file included which is my report of the assignment. 
 There is only 1 .py file needed to run the code.
